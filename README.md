@@ -1,6 +1,6 @@
 # fetch
 Assessment solution 
-**Due to some reason my machine doest work with powerBI which enable me making report. so i share step which i want to generate report in bi**
+**Due to some reason my machine does not work with powerBI which enable me making report. so i share step which i want to generate report in bi**
 Used Power BI
 Configure the appropriate database connector in your BI tool to establish a connection with the database.
 Provide the necessary details such as the database type, host, port, username, password, and database name.
